@@ -1,4 +1,4 @@
 dynamicRoutes:
   - from: /*
-  - to: fleet-smb-starter-ce40b631.pgsdemo.com/:splat
+  - to: https://fleet-smb-starter-ce40b631.pgsdemo.com/:splat
   - status: 302
